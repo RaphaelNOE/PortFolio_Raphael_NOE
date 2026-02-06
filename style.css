@@ -9,7 +9,7 @@ header {
     /*-----stick to top et sroll-----*/
     position: sticky;
     top: 0;
-    padding: 10px 16px;
+    padding: 10px 16px; 
     /*--fix img passant au dessus du header--*/
     z-index: 1;
 }
